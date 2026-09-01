@@ -28,7 +28,7 @@ from fertilizer_engine import calculate_fertilizer_effect, FERTILIZER_REGIMES
 
 # Base paths
 DATASET_PATH = "punjab_model1_master_with_s1_weather_soil.csv"
-MODEL_DIR = Path("ex_ante_crop_models")
+MODEL_DIR = Path("six_crop_extratrees_models")
 
 # 1 metric ton / ha = 10.12705 maunds / acre
 TON_HA_TO_MAUND_ACRE = 10.12705

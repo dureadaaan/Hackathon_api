@@ -1,0 +1,380 @@
+crop,feature,importance,feature_family
+Wheat,numerical__clay_pct,0.2699142993445397,Soil
+Wheat,numerical__NDRE_max,0.08931235650538903,Sentinel-2
+Wheat,numerical__minimum_temperature_C,0.08300514879453418,Weather
+Wheat,numerical__GNDVI_max,0.0768776885095926,Sentinel-2
+Wheat,numerical__soil_water_content_pct,0.05594678279425096,Soil
+Wheat,numerical__NDVI_max,0.05190804862651581,Sentinel-2
+Wheat,numerical__mean_temperature_C,0.04160917350965107,Weather
+Wheat,numerical__soil_pH,0.03267778452296004,Soil
+Wheat,numerical__rainfall_total_mm,0.027253824615192646,Weather
+Wheat,numerical__year_model,0.02439063751665765,Year
+Wheat,categorical__district_Gujrat,0.019701738691546563,District
+Wheat,numerical__NDRE_mean,0.014631479429416299,Sentinel-2
+Wheat,categorical__district_Mianwali,0.014350259942775985,District
+Wheat,numerical__maximum_temperature_C,0.012414621566765142,Weather
+Wheat,numerical__solar_radiation_MJ_m2,0.01229074001669961,Weather
+Wheat,numerical__NDVI_mean,0.011969737213451896,Sentinel-2
+Wheat,categorical__district_Khushab,0.011222924390448459,District
+Wheat,categorical__district_Sargodha,0.010591592481106193,District
+Wheat,numerical__soil_organic_carbon_g_kg,0.01034461410360434,Soil
+Wheat,numerical__VV_VH_max,0.00923519895983178,Sentinel-1
+Wheat,numerical__NDWI_max,0.009087865154821772,Sentinel-2
+Wheat,categorical__district_Bhakkar,0.00842538156235201,District
+Wheat,numerical__GNDVI_mean,0.007482199098589268,Sentinel-2
+Wheat,categorical__district_Narowal,0.007344035308046133,District
+Wheat,numerical__sand_pct,0.006630881003691806,Soil
+Wheat,categorical__district_Chakwal,0.006313486844941577,District
+Wheat,numerical__NDWI_mean,0.0062408522569699434,Sentinel-2
+Wheat,numerical__VV_VH_mean,0.005941854646879777,Sentinel-1
+Wheat,categorical__district_Sialkot,0.005830830295615884,District
+Wheat,categorical__district_Leiah,0.005044830031070747,District
+Wheat,numerical__VV_mean,0.004241381064469289,Sentinel-1
+Wheat,categorical__district_Muzaffargarh,0.0041947090496152655,District
+Wheat,categorical__district_Rawalpindi,0.004176340819582888,District
+Wheat,categorical__district_Mandi Bahauddin,0.003980872259804311,District
+Wheat,numerical__VV_max,0.003932454065009342,Sentinel-1
+Wheat,numerical__EVI_mean,0.0039060469035265863,Sentinel-2
+Wheat,numerical__VH_max,0.0037925338364965546,Sentinel-1
+Wheat,numerical__VH_mean,0.003432377823043746,Sentinel-1
+Wheat,numerical__EVI_max,0.003380262387368348,Sentinel-2
+Wheat,numerical__relative_humidity_mean,0.0029957737153037843,Weather
+Wheat,categorical__district_Attock,0.0017303589224649694,District
+Wheat,categorical__district_Jhelum,0.0014894780227452113,District
+Wheat,categorical__district_Toba Tek Singh,0.0010801650927028037,District
+Wheat,categorical__district_Lodhran,0.001078519578809358,District
+Wheat,categorical__district_Kasur,0.001052605947016375,District
+Wheat,categorical__district_Dera Ghazi Khan,0.0010261825166255065,District
+Wheat,categorical__district_Hafizabad,0.0009996520581223925,District
+Wheat,categorical__district_Sheikhupura,0.0009072669309307952,District
+Wheat,categorical__district_Gujranwala,0.0007716987628253309,District
+Wheat,categorical__district_Chiniot,0.0006907842743004033,District
+Wheat,categorical__district_Khanewal,0.0005400723105845858,District
+Wheat,categorical__district_Lahore,0.0003382273694359068,District
+Wheat,categorical__district_Pakpattan,0.0003336821544799201,District
+Wheat,categorical__district_Nankana Sahib,0.00028491182839426247,District
+Wheat,categorical__district_Okara,0.0002752224636163274,District
+Wheat,categorical__district_Bahawalnagar,0.00022316870291809435,District
+Wheat,categorical__district_Rahim Yar Khan,0.00021672456168915366,District
+Wheat,categorical__district_Jhang,0.00021019188851635772,District
+Wheat,categorical__district_Bahawalpur,0.0001836310217102188,District
+Wheat,categorical__district_Sahiwal,0.00017205636723380537,District
+Wheat,categorical__district_Vehari,0.0001641545591580254,District
+Wheat,categorical__district_Multan,7.79439310784983e-05,District
+Wheat,categorical__district_Faisalabad,7.429209593277721e-05,District
+Wheat,categorical__district_Rajanpur,5.538897658002521e-05,District
+Gram,numerical__clay_pct,0.09242276320891152,Soil
+Gram,numerical__year_model,0.06912524078776515,Year
+Gram,categorical__district_Jhang,0.051966189053253654,District
+Gram,numerical__VV_mean,0.05094660913985132,Sentinel-1
+Gram,categorical__district_Vehari,0.04760793965077675,District
+Gram,numerical__VV_VH_max,0.0334867167367989,Sentinel-1
+Gram,numerical__VV_VH_mean,0.03304772592268653,Sentinel-1
+Gram,numerical__VV_max,0.03224869446165896,Sentinel-1
+Gram,numerical__NDWI_max,0.032178116437505275,Sentinel-2
+Gram,numerical__NDRE_max,0.02973480752823303,Sentinel-2
+Gram,numerical__soil_water_content_pct,0.028849649222656305,Soil
+Gram,numerical__NDRE_mean,0.024673441894866775,Sentinel-2
+Gram,numerical__solar_radiation_MJ_m2,0.02425558871977131,Weather
+Gram,numerical__sand_pct,0.022740620504556892,Soil
+Gram,numerical__soil_organic_carbon_g_kg,0.02122386732590761,Soil
+Gram,categorical__district_Nankana Sahib,0.019924856647405998,District
+Gram,numerical__VH_max,0.01937153196367645,Sentinel-1
+Gram,numerical__maximum_temperature_C,0.01898965530316338,Weather
+Gram,numerical__VH_mean,0.01849024694083954,Sentinel-1
+Gram,categorical__district_Khushab,0.01599349761211503,District
+Gram,categorical__district_Gujrat,0.015591592111234188,District
+Gram,numerical__minimum_temperature_C,0.014974372995616162,Weather
+Gram,numerical__relative_humidity_mean,0.014910911727693082,Weather
+Gram,categorical__district_Khanewal,0.01482363606368207,District
+Gram,categorical__district_Bhakkar,0.014519193775999747,District
+Gram,numerical__mean_temperature_C,0.014473580669257032,Weather
+Gram,numerical__rainfall_total_mm,0.013765991463937978,Weather
+Gram,categorical__district_Toba Tek Singh,0.013601323877525273,District
+Gram,numerical__GNDVI_max,0.013360166201555619,Sentinel-2
+Gram,categorical__district_Dera Ghazi Khan,0.011667512439530778,District
+Gram,numerical__soil_pH,0.011649279286844555,Soil
+Gram,numerical__NDVI_mean,0.011207034274061037,Sentinel-2
+Gram,categorical__district_Rajanpur,0.011067593836374245,District
+Gram,numerical__NDVI_max,0.010492314199655541,Sentinel-2
+Gram,numerical__GNDVI_mean,0.010233130979241624,Sentinel-2
+Gram,categorical__district_Bahawalnagar,0.01000115702206014,District
+Gram,numerical__NDWI_mean,0.009467935943461679,Sentinel-2
+Gram,categorical__district_Faisalabad,0.009142349011379995,District
+Gram,categorical__district_Chiniot,0.008487481987595986,District
+Gram,categorical__district_Kasur,0.00801943910046167,District
+Gram,categorical__district_Pakpattan,0.007442228891832884,District
+Gram,categorical__district_Leiah,0.0073443438109231695,District
+Gram,numerical__EVI_max,0.007052955750566033,Sentinel-2
+Gram,categorical__district_Bahawalpur,0.006723532387041966,District
+Gram,categorical__district_Narowal,0.005023686082252533,District
+Gram,categorical__district_Attock,0.004703499608321319,District
+Gram,numerical__EVI_mean,0.004612967535698803,Sentinel-2
+Gram,categorical__district_Lodhran,0.004556497002933869,District
+Gram,categorical__district_Sahiwal,0.004042866198397967,District
+Gram,categorical__district_Mianwali,0.0036542247681820967,District
+Gram,categorical__district_Chakwal,0.0034933355137015125,District
+Gram,categorical__district_Sheikhupura,0.0020317467830674374,District
+Gram,categorical__district_Hafizabad,0.0016878372989886387,District
+Gram,categorical__district_Muzaffargarh,0.0016131578352064917,District
+Gram,categorical__district_Rawalpindi,0.0015539045908944378,District
+Gram,categorical__district_Sargodha,0.0014309887258844882,District
+Gram,categorical__district_Gujranwala,0.0012519386518700716,District
+Gram,categorical__district_Okara,0.0007532886981932049,District
+Gram,categorical__district_Sialkot,0.0007029923785520838,District
+Gram,categorical__district_Rahim Yar Khan,0.0006742216617852158,District
+Gram,categorical__district_Mandi Bahauddin,0.0005434004010201177,District
+Gram,categorical__district_Jhelum,0.0003726293951168343,District
+Maize (Autumn),categorical__district_Chakwal,0.11265816011252097,District
+Maize (Autumn),numerical__clay_pct,0.07408809867904781,Soil
+Maize (Autumn),numerical__mean_temperature_C,0.057019581979127716,Weather
+Maize (Autumn),numerical__maximum_temperature_C,0.05385730801084664,Weather
+Maize (Autumn),numerical__GNDVI_max,0.04980888940331532,Sentinel-2
+Maize (Autumn),categorical__district_Rawalpindi,0.049300350922400864,District
+Maize (Autumn),numerical__NDRE_max,0.04905733076246532,Sentinel-2
+Maize (Autumn),numerical__minimum_temperature_C,0.04590724712944898,Weather
+Maize (Autumn),numerical__NDVI_max,0.042094883950746495,Sentinel-2
+Maize (Autumn),categorical__district_Rajanpur,0.03585333869666218,District
+Maize (Autumn),numerical__GNDVI_mean,0.029990255851522516,Sentinel-2
+Maize (Autumn),numerical__NDWI_mean,0.02746269049639127,Sentinel-2
+Maize (Autumn),numerical__NDVI_mean,0.027049720008313606,Sentinel-2
+Maize (Autumn),numerical__soil_pH,0.025709598730378917,Soil
+Maize (Autumn),numerical__soil_water_content_pct,0.02497826673024572,Soil
+Maize (Autumn),numerical__NDRE_mean,0.024087085805491897,Sentinel-2
+Maize (Autumn),categorical__district_Mandi Bahauddin,0.023428903477944248,District
+Maize (Autumn),numerical__rainfall_total_mm,0.02133312949543623,Weather
+Maize (Autumn),numerical__year_model,0.018101863041172804,Year
+Maize (Autumn),categorical__district_Jhang,0.017680308861644865,District
+Maize (Autumn),numerical__soil_organic_carbon_g_kg,0.016469826405599783,Soil
+Maize (Autumn),numerical__solar_radiation_MJ_m2,0.015707308327758122,Weather
+Maize (Autumn),numerical__VV_VH_max,0.0143059945569571,Sentinel-1
+Maize (Autumn),numerical__EVI_max,0.01233157914152458,Sentinel-2
+Maize (Autumn),categorical__district_Leiah,0.012096897473050797,District
+Maize (Autumn),numerical__VV_VH_mean,0.01179671686850161,Sentinel-1
+Maize (Autumn),numerical__sand_pct,0.009649618711411498,Soil
+Maize (Autumn),numerical__VV_max,0.009275273806742895,Sentinel-1
+Maize (Autumn),categorical__district_Sargodha,0.008154175968899374,District
+Maize (Autumn),numerical__VH_max,0.008027837281412657,Sentinel-1
+Maize (Autumn),numerical__EVI_mean,0.00787982150668849,Sentinel-2
+Maize (Autumn),numerical__VV_mean,0.007375572687771773,Sentinel-1
+Maize (Autumn),numerical__VH_mean,0.006809703198893543,Sentinel-1
+Maize (Autumn),numerical__NDWI_max,0.006498286236417345,Sentinel-2
+Maize (Autumn),numerical__relative_humidity_mean,0.0062553951767896875,Weather
+Maize (Autumn),categorical__district_Bahawalpur,0.005280141245343177,District
+Maize (Autumn),categorical__district_Muzaffargarh,0.0041001604630219925,District
+Maize (Autumn),categorical__district_Bahawalnagar,0.003548186240254362,District
+Maize (Autumn),categorical__district_Rahim Yar Khan,0.0031696247490303397,District
+Maize (Autumn),categorical__district_Hafizabad,0.003134761433920559,District
+Maize (Autumn),categorical__district_Jhelum,0.002836322716377832,District
+Maize (Autumn),categorical__district_Attock,0.0026826764262245922,District
+Maize (Autumn),categorical__district_Sialkot,0.0026062189337186428,District
+Maize (Autumn),categorical__district_Gujranwala,0.002038167201625608,District
+Maize (Autumn),categorical__district_Lodhran,0.001469196056295723,District
+Maize (Autumn),categorical__district_Multan,0.0009525801383898667,District
+Maize (Autumn),categorical__district_Dera Ghazi Khan,0.0008642513807674443,District
+Maize (Autumn),categorical__district_Toba Tek Singh,0.000706342029872001,District
+Maize (Autumn),categorical__district_Lahore,0.0005785033551757942,District
+Maize (Autumn),categorical__district_Narowal,0.000576131338506622,District
+Maize (Autumn),categorical__district_Bhakkar,0.0005683829144531628,District
+Maize (Autumn),categorical__district_Khushab,0.00039919943127553903,District
+Maize (Autumn),categorical__district_Mianwali,0.00038281595153673564,District
+Maize (Autumn),categorical__district_Kasur,0.0003447593853176752,District
+Maize (Autumn),categorical__district_Nankana Sahib,0.00028001705748948087,District
+Maize (Autumn),categorical__district_Gujrat,0.0002710594922502971,District
+Maize (Autumn),categorical__district_Khanewal,0.00022054107418653958,District
+Maize (Autumn),categorical__district_Chiniot,0.0002193962075369849,District
+Maize (Autumn),categorical__district_Okara,0.0001775031511917119,District
+Maize (Autumn),categorical__district_Sahiwal,0.00012709208714076982,District
+Maize (Autumn),categorical__district_Vehari,0.00010941299019380156,District
+Maize (Autumn),categorical__district_Faisalabad,9.661146796472069e-05,District
+Maize (Autumn),categorical__district_Pakpattan,8.280433825567304e-05,District
+Maize (Autumn),categorical__district_Sheikhupura,7.612124913857709e-05,District
+Rapeseed & Mustard,numerical__minimum_temperature_C,0.15891263977414255,Weather
+Rapeseed & Mustard,numerical__clay_pct,0.10350728497997586,Soil
+Rapeseed & Mustard,numerical__mean_temperature_C,0.06740951430973412,Weather
+Rapeseed & Mustard,numerical__NDRE_max,0.05195155383910137,Sentinel-2
+Rapeseed & Mustard,numerical__rainfall_total_mm,0.03692138112327252,Weather
+Rapeseed & Mustard,numerical__GNDVI_max,0.031156865454327522,Sentinel-2
+Rapeseed & Mustard,categorical__district_Hafizabad,0.03093373395301446,District
+Rapeseed & Mustard,numerical__year_model,0.027333995267990237,Year
+Rapeseed & Mustard,numerical__soil_water_content_pct,0.0271137358297629,Soil
+Rapeseed & Mustard,numerical__NDVI_max,0.02670386879352926,Sentinel-2
+Rapeseed & Mustard,numerical__soil_pH,0.025712395191893785,Soil
+Rapeseed & Mustard,numerical__solar_radiation_MJ_m2,0.02372247865316076,Weather
+Rapeseed & Mustard,numerical__VV_VH_max,0.023161498183300107,Sentinel-1
+Rapeseed & Mustard,categorical__district_Gujrat,0.021292594769519984,District
+Rapeseed & Mustard,numerical__maximum_temperature_C,0.020768448453526534,Weather
+Rapeseed & Mustard,numerical__sand_pct,0.02001509289072148,Soil
+Rapeseed & Mustard,numerical__VV_VH_mean,0.017476275212279475,Sentinel-1
+Rapeseed & Mustard,numerical__NDWI_max,0.01689234045944376,Sentinel-2
+Rapeseed & Mustard,numerical__VV_max,0.01383702040407982,Sentinel-1
+Rapeseed & Mustard,numerical__NDRE_mean,0.013745175320108298,Sentinel-2
+Rapeseed & Mustard,categorical__district_Mianwali,0.013624879877165387,District
+Rapeseed & Mustard,numerical__NDVI_mean,0.012901176024563062,Sentinel-2
+Rapeseed & Mustard,numerical__VH_max,0.012354358648648537,Sentinel-1
+Rapeseed & Mustard,numerical__NDWI_mean,0.012138964708024178,Sentinel-2
+Rapeseed & Mustard,numerical__relative_humidity_mean,0.012102322594929018,Weather
+Rapeseed & Mustard,numerical__soil_organic_carbon_g_kg,0.011863229936942143,Soil
+Rapeseed & Mustard,numerical__VH_mean,0.011810228730820892,Sentinel-1
+Rapeseed & Mustard,numerical__VV_mean,0.011050754533150834,Sentinel-1
+Rapeseed & Mustard,numerical__EVI_max,0.010933471879330213,Sentinel-2
+Rapeseed & Mustard,categorical__district_Dera Ghazi Khan,0.01067186690140136,District
+Rapeseed & Mustard,numerical__GNDVI_mean,0.010625234110584265,Sentinel-2
+Rapeseed & Mustard,categorical__district_Kasur,0.010043167625862196,District
+Rapeseed & Mustard,categorical__district_Bahawalpur,0.009879966825173956,District
+Rapeseed & Mustard,categorical__district_Sargodha,0.009213273189965605,District
+Rapeseed & Mustard,numerical__EVI_mean,0.009189758976746181,Sentinel-2
+Rapeseed & Mustard,categorical__district_Khushab,0.008050071737107404,District
+Rapeseed & Mustard,categorical__district_Faisalabad,0.005975028977140704,District
+Rapeseed & Mustard,categorical__district_Rawalpindi,0.0051958805449515855,District
+Rapeseed & Mustard,categorical__district_Muzaffargarh,0.004644355317487118,District
+Rapeseed & Mustard,categorical__district_Chakwal,0.0046097658339156146,District
+Rapeseed & Mustard,categorical__district_Vehari,0.004332235044103934,District
+Rapeseed & Mustard,categorical__district_Gujranwala,0.0038765859604402535,District
+Rapeseed & Mustard,categorical__district_Narowal,0.0038344885129542572,District
+Rapeseed & Mustard,categorical__district_Mandi Bahauddin,0.0028467365639992586,District
+Rapeseed & Mustard,categorical__district_Jhang,0.0027880459963876055,District
+Rapeseed & Mustard,categorical__district_Toba Tek Singh,0.0023949874965912762,District
+Rapeseed & Mustard,categorical__district_Leiah,0.0023887813588983607,District
+Rapeseed & Mustard,categorical__district_Sheikhupura,0.0022105806062467114,District
+Rapeseed & Mustard,categorical__district_Multan,0.0021725148992188356,District
+Rapeseed & Mustard,categorical__district_Bhakkar,0.0018664765278426176,District
+Rapeseed & Mustard,categorical__district_Attock,0.0018004826317512827,District
+Rapeseed & Mustard,categorical__district_Sialkot,0.0017731897544689572,District
+Rapeseed & Mustard,categorical__district_Rahim Yar Khan,0.0017698457748448475,District
+Rapeseed & Mustard,categorical__district_Jhelum,0.0015591230851188015,District
+Rapeseed & Mustard,categorical__district_Pakpattan,0.0013702063808124706,District
+Rapeseed & Mustard,categorical__district_Lodhran,0.0013193412730897417,District
+Rapeseed & Mustard,categorical__district_Rajanpur,0.0011804150172640634,District
+Rapeseed & Mustard,categorical__district_Nankana Sahib,0.0011736323795613728,District
+Rapeseed & Mustard,categorical__district_Chiniot,0.0010555129613157297,District
+Rapeseed & Mustard,categorical__district_Lahore,0.000989863780815916,District
+Rapeseed & Mustard,categorical__district_Okara,0.0008226101737371962,District
+Rapeseed & Mustard,categorical__district_Bahawalnagar,0.0006693990717057106,District
+Rapeseed & Mustard,categorical__district_Sahiwal,0.00018702954201451862,District
+Rapeseed & Mustard,categorical__district_Khanewal,0.0001722653700214171,District
+Jowar,categorical__district_Toba Tek Singh,0.1294008337524596,District
+Jowar,categorical__district_Sahiwal,0.06787239092714419,District
+Jowar,categorical__district_Pakpattan,0.060010369075198716,District
+Jowar,categorical__district_Okara,0.059018505854699733,District
+Jowar,numerical__NDRE_mean,0.05380023186810132,Sentinel-2
+Jowar,numerical__clay_pct,0.05023500909757172,Soil
+Jowar,numerical__GNDVI_max,0.04212875129997467,Sentinel-2
+Jowar,numerical__mean_temperature_C,0.03573957943416007,Weather
+Jowar,numerical__rainfall_total_mm,0.035234218713202675,Weather
+Jowar,numerical__NDVI_mean,0.03483450932065126,Sentinel-2
+Jowar,numerical__maximum_temperature_C,0.029592253476873935,Weather
+Jowar,numerical__NDRE_max,0.027513323299041957,Sentinel-2
+Jowar,categorical__district_Faisalabad,0.02684432010524936,District
+Jowar,numerical__NDWI_mean,0.021141756529588298,Sentinel-2
+Jowar,numerical__NDVI_max,0.020747561358895248,Sentinel-2
+Jowar,numerical__sand_pct,0.020444835204100138,Soil
+Jowar,numerical__year_model,0.020307913620478683,Year
+Jowar,numerical__minimum_temperature_C,0.01994495505766339,Weather
+Jowar,numerical__GNDVI_mean,0.019121787219358283,Sentinel-2
+Jowar,numerical__VV_max,0.017739013771255526,Sentinel-1
+Jowar,numerical__soil_pH,0.015746348551274388,Soil
+Jowar,numerical__soil_water_content_pct,0.015135641168076176,Soil
+Jowar,numerical__soil_organic_carbon_g_kg,0.01502939798694094,Soil
+Jowar,numerical__relative_humidity_mean,0.01290045563542937,Weather
+Jowar,categorical__district_Vehari,0.011211055723087332,District
+Jowar,numerical__VV_mean,0.010829348050861177,Sentinel-1
+Jowar,numerical__solar_radiation_MJ_m2,0.010417564227615922,Weather
+Jowar,numerical__VV_VH_max,0.010367146877583605,Sentinel-1
+Jowar,categorical__district_Rajanpur,0.008894424465710957,District
+Jowar,numerical__VH_mean,0.008883871879034638,Sentinel-1
+Jowar,numerical__NDWI_max,0.008557880108420193,Sentinel-2
+Jowar,numerical__VH_max,0.00821630074747828,Sentinel-1
+Jowar,categorical__district_Jhang,0.007526509110527049,District
+Jowar,categorical__district_Chiniot,0.005829068680673003,District
+Jowar,categorical__district_Multan,0.0057703642049692595,District
+Jowar,categorical__district_Gujrat,0.005402989199294863,District
+Jowar,numerical__VV_VH_mean,0.005182722879315222,Sentinel-1
+Jowar,categorical__district_Lodhran,0.004058165534038944,District
+Jowar,categorical__district_Kasur,0.003903097654665322,District
+Jowar,numerical__EVI_max,0.0037185190584880443,Sentinel-2
+Jowar,categorical__district_Sargodha,0.0033928843721185904,District
+Jowar,categorical__district_Gujranwala,0.0031416480790813165,District
+Jowar,numerical__EVI_mean,0.0028853637890542965,Sentinel-2
+Jowar,categorical__district_Hafizabad,0.0026533046190098603,District
+Jowar,categorical__district_Jhelum,0.0023536048403403464,District
+Jowar,categorical__district_Khanewal,0.002088553305220484,District
+Jowar,categorical__district_Leiah,0.0019071306650488716,District
+Jowar,categorical__district_Dera Ghazi Khan,0.0013034477752555222,District
+Jowar,categorical__district_Bhakkar,0.0011263050446351603,District
+Jowar,categorical__district_Rahim Yar Khan,0.001050789537222873,District
+Jowar,categorical__district_Bahawalpur,0.0008931981920660394,District
+Jowar,categorical__district_Sheikhupura,0.0008867551633038448,District
+Jowar,categorical__district_Khushab,0.0008707761960602964,District
+Jowar,categorical__district_Rawalpindi,0.0008243339602492178,District
+Jowar,categorical__district_Bahawalnagar,0.0007784936310025113,District
+Jowar,categorical__district_Lahore,0.0007690779893506994,District
+Jowar,categorical__district_Muzaffargarh,0.0006912913856320723,District
+Jowar,categorical__district_Mianwali,0.0006870593467254386,District
+Jowar,categorical__district_Nankana Sahib,0.0006774345474789584,District
+Jowar,categorical__district_Narowal,0.0005574767950290968,District
+Jowar,categorical__district_Mandi Bahauddin,0.00047357843694191266,District
+Jowar,categorical__district_Chakwal,0.0003976007676886584,District
+Jowar,categorical__district_Sialkot,0.0002596798772412117,District
+Jowar,categorical__district_Attock,7.722095508925192e-05,District
+Sugarcane,numerical__minimum_temperature_C,0.09914303461903942,Weather
+Sugarcane,numerical__solar_radiation_MJ_m2,0.097552479818503,Weather
+Sugarcane,numerical__soil_pH,0.06509570227339893,Soil
+Sugarcane,numerical__mean_temperature_C,0.06406915462757101,Weather
+Sugarcane,numerical__year_model,0.06312714406914431,Year
+Sugarcane,categorical__district_Narowal,0.052745398503996864,District
+Sugarcane,numerical__relative_humidity_mean,0.04541284388214656,Weather
+Sugarcane,numerical__maximum_temperature_C,0.04251222951797998,Weather
+Sugarcane,numerical__soil_water_content_pct,0.03530413284451023,Soil
+Sugarcane,numerical__rainfall_total_mm,0.031248729675722287,Weather
+Sugarcane,numerical__clay_pct,0.023865595173894492,Soil
+Sugarcane,categorical__district_Okara,0.020838171214129737,District
+Sugarcane,categorical__district_Rajanpur,0.020540443643367608,District
+Sugarcane,numerical__sand_pct,0.020126894801454666,Soil
+Sugarcane,numerical__soil_organic_carbon_g_kg,0.01995461491279343,Soil
+Sugarcane,numerical__VV_VH_mean,0.01842779684502328,Sentinel-1
+Sugarcane,numerical__VV_VH_max,0.017748626192782634,Sentinel-1
+Sugarcane,categorical__district_Khushab,0.01610495890844756,District
+Sugarcane,numerical__VV_max,0.01501088832754882,Sentinel-1
+Sugarcane,categorical__district_Gujranwala,0.01467673749449157,District
+Sugarcane,categorical__district_Pakpattan,0.013871296611064019,District
+Sugarcane,numerical__NDRE_max,0.013227754268285239,Sentinel-2
+Sugarcane,numerical__NDVI_max,0.012663060831601684,Sentinel-2
+Sugarcane,numerical__NDRE_mean,0.01262304637679554,Sentinel-2
+Sugarcane,numerical__NDWI_max,0.012037934848801264,Sentinel-2
+Sugarcane,categorical__district_Rahim Yar Khan,0.011844454488383595,District
+Sugarcane,numerical__VH_max,0.010079456500622188,Sentinel-1
+Sugarcane,numerical__GNDVI_max,0.009791022636759142,Sentinel-2
+Sugarcane,numerical__VV_mean,0.009712157543692895,Sentinel-1
+Sugarcane,categorical__district_Lodhran,0.009441145274618661,District
+Sugarcane,numerical__VH_mean,0.008147942830242023,Sentinel-1
+Sugarcane,numerical__EVI_max,0.008119137883223538,Sentinel-2
+Sugarcane,categorical__district_Gujrat,0.008055687435564248,District
+Sugarcane,numerical__NDVI_mean,0.008019165206209088,Sentinel-2
+Sugarcane,numerical__NDWI_mean,0.0075556733733517095,Sentinel-2
+Sugarcane,numerical__GNDVI_mean,0.0071761832188414025,Sentinel-2
+Sugarcane,numerical__EVI_mean,0.006619006473904121,Sentinel-2
+Sugarcane,categorical__district_Muzaffargarh,0.006160509356181596,District
+Sugarcane,categorical__district_Dera Ghazi Khan,0.005163250446974176,District
+Sugarcane,categorical__district_Kasur,0.0038209590214309556,District
+Sugarcane,categorical__district_Jhelum,0.0036422305651066154,District
+Sugarcane,categorical__district_Sahiwal,0.0034675975592947023,District
+Sugarcane,categorical__district_Multan,0.002699783994449063,District
+Sugarcane,categorical__district_Sargodha,0.00239027859243948,District
+Sugarcane,categorical__district_Mandi Bahauddin,0.0022607454754569847,District
+Sugarcane,categorical__district_Sialkot,0.0017883306589562245,District
+Sugarcane,categorical__district_Chiniot,0.001634599265069096,District
+Sugarcane,categorical__district_Hafizabad,0.0016010647321840152,District
+Sugarcane,categorical__district_Mianwali,0.0015416379374277563,District
+Sugarcane,categorical__district_Leiah,0.001377999517080925,District
+Sugarcane,categorical__district_Khanewal,0.0013436549165240677,District
+Sugarcane,categorical__district_Bahawalpur,0.0013267774118700434,District
+Sugarcane,categorical__district_Sheikhupura,0.0012591472552166533,District
+Sugarcane,categorical__district_Bahawalnagar,0.001078681752222872,District
+Sugarcane,categorical__district_Vehari,0.0010535863331635022,District
+Sugarcane,categorical__district_Nankana Sahib,0.0010059861182732397,District
+Sugarcane,categorical__district_Lahore,0.0007386135538182764,District
+Sugarcane,categorical__district_Toba Tek Singh,0.0007009189604777476,District
+Sugarcane,categorical__district_Bhakkar,0.0005599724980893471,District
+Sugarcane,categorical__district_Faisalabad,0.0005085380507804734,District
+Sugarcane,categorical__district_Jhang,0.0003854328796053878,District

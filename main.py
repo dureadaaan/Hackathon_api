@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional
-from predict import predict_yield
+from six_crop_predict import predict_yield_six_crop
 
 app = FastAPI()
 
@@ -18,7 +18,7 @@ def home():
 
 @app.post("/simulate")
 def simulate(request: ScenarioRequest):
-    result = predict_yield(
+    result = predict_yield_six_crop(
         crop=request.crop,
         district=request.district,
         sowing_date=request.sowing_date,
