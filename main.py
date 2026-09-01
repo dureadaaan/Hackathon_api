@@ -1,19 +1,16 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
+from typing import Optional
+from predict import predict_yield
 
 app = FastAPI()
 
-# Real input fields, confirmed with your teammates
 class ScenarioRequest(BaseModel):
-    crop_type: str
+    crop: str
     district: str
-    farm_area: float
-    soil_moisture: float
-    rainfall: float
-    humidity: float
-    temperature: float
-    nitrogen: float
-    fertilizer_amount: float
+    sowing_date: Optional[str] = None
+    fertilizer_protocol: Optional[str] = "Balanced NPK (15-15-15)"
+    cultivar: Optional[str] = None
 
 @app.get("/")
 def home():
@@ -21,17 +18,11 @@ def home():
 
 @app.post("/simulate")
 def simulate(request: ScenarioRequest):
-
-    # --- FAKE simulation result for now (swap for real model call later) ---
-    fake_yield_result = {
-        "predicted_yield_tonnes_per_ha": 4.2
-    }
-
-    # --- FAKE LLM advice for now ---
-    fake_advice = "Based on current soil moisture and rainfall, consider reducing irrigation by 10%."
-
-    return {
-        "input_received": request.dict(),
-        "simulation": fake_yield_result,
-        "advice": fake_advice
-    }
+    result = predict_yield(
+        crop=request.crop,
+        district=request.district,
+        sowing_date=request.sowing_date,
+        fertilizer_protocol=request.fertilizer_protocol,
+        cultivar=request.cultivar
+    )
+    return result

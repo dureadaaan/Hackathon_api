@@ -1,0 +1,42 @@
+crop,train_samples,test_samples,mean_actual_yield_t_ha,MAE_t_ha,RMSE_t_ha,MAPE_pct,R2_score,model_file
+Kharif Fodder,250,36,34.284,2.2985,2.9,7.19,0.7863,Kharif_Fodder_ExtraTrees.pkl
+Rabi Fodder,250,36,82.222,14.5156,18.0363,16.91,0.2458,Rabi_Fodder_ExtraTrees.pkl
+Rice,233,34,2.202,0.1782,0.2343,8.62,0.5199,Rice_ExtraTrees.pkl
+Wheat,216,36,3.349,0.1963,0.2403,6.94,0.8922,Wheat_ExtraTrees.pkl
+Sesamum,211,35,0.554,0.1197,0.1453,22.79,-0.6814,Sesamum_ExtraTrees.pkl
+Rapeseed & Mustard,199,34,1.376,0.1407,0.2022,10.8,0.7147,Rapeseed_Mustard_ExtraTrees.pkl
+Sugarcane,191,31,66.098,5.1538,7.4428,7.85,0.6496,Sugarcane_ExtraTrees.pkl
+Bajra,196,13,1.408,0.3346,0.4317,31.36,0.1329,Bajra_ExtraTrees.pkl
+Guava,174,34,15.207,3.3255,4.6547,22.6,0.6435,Guava_ExtraTrees.pkl
+Ladyfinger,170,34,12.871,2.7318,3.2853,22.92,0.4605,Ladyfinger_ExtraTrees.pkl
+Jowar,183,11,0.666,0.1266,0.1637,21.27,0.8406,Jowar_ExtraTrees.pkl
+Moong,168,20,0.769,0.1151,0.1445,16.22,0.5327,Moong_ExtraTrees.pkl
+Canola,153,31,1.526,0.2393,0.312,16.56,0.2083,Canola_ExtraTrees.pkl
+Mango,144,33,10.599,1.9912,2.7754,22.07,0.5602,Mango_ExtraTrees.pkl
+Tinda,147,27,9.428,2.7641,3.5896,36.39,0.0287,Tinda_ExtraTrees.pkl
+Tobacco,138,33,2.62,0.7219,1.0451,32.98,0.2028,Tobacco_ExtraTrees.pkl
+Maize (Autumn),138,22,6.365,0.4986,0.6823,8.14,0.6249,Maize_Autumn_ExtraTrees.pkl
+Maize (Spring),130,25,7.073,1.0626,1.2989,17.0,0.4205,Maize_Spring_ExtraTrees.pkl
+Bitter Gourd,122,31,16.253,3.8049,5.7885,32.51,0.4665,Bitter_Gourd_ExtraTrees.pkl
+Bottle Gourd,102,34,16.916,3.1282,4.0991,23.29,0.6086,Bottle_Gourd_ExtraTrees.pkl
+Gram,122,13,0.498,0.1624,0.1756,66.55,0.7946,Gram_ExtraTrees.pkl
+Phalsa,111,24,4.824,1.1607,1.3365,29.5,0.3104,Phalsa_ExtraTrees.pkl
+Dates,102,25,8.376,1.7532,2.5721,34.42,0.3591,Dates_ExtraTrees.pkl
+Other Rabi Vegetables,92,30,12.0,3.7799,5.7511,39.99,0.0267,Other_Rabi_Vegetables_ExtraTrees.pkl
+Lufa,90,30,12.955,3.8174,4.8296,37.39,0.202,Lufa_ExtraTrees.pkl
+Pomegranate,95,23,6.131,2.452,3.4102,84.16,0.1744,Pomegranate_ExtraTrees.pkl
+Brinjal,86,31,22.432,6.3762,7.851,34.86,0.2147,Brinjal_ExtraTrees.pkl
+Other Kharif Vegetables,76,28,9.06,6.712,8.2812,109.67,-1.1715,Other_Kharif_Vegetables_ExtraTrees.pkl
+Peach,66,31,8.569,4.4394,5.8182,80.31,-0.4234,Peach_ExtraTrees.pkl
+Litchi,74,21,5.023,2.1383,2.7329,56.37,-0.2546,Litchi_ExtraTrees.pkl
+Masoor,74,15,0.698,0.2412,0.4062,33.72,0.0412,Masoor_ExtraTrees.pkl
+Barley,79,8,1.483,0.5529,0.7947,36.72,0.1958,Barley_ExtraTrees.pkl
+Other Kharif Fruits,53,25,1.396,1.2283,2.2349,172.99,-0.1908,Other_Kharif_Fruits_ExtraTrees.pkl
+Cotton,57,8,0.847,0.1743,0.2826,16.4,-0.0567,Cotton_ExtraTrees.pkl
+Cucumber,50,15,40.928,14.1883,16.3594,57.96,0.7237,Cucumber_ExtraTrees.pkl
+Guarseed,55,6,0.517,0.263,0.3172,104.44,0.4352,Guarseed_ExtraTrees.pkl
+Shimla Mirch,35,12,21.629,5.7437,7.3929,32.55,0.261,Shimla_Mirch_ExtraTrees.pkl
+Pumpkin,27,17,17.14,8.7303,13.3932,64.34,-0.6282,Pumpkin_ExtraTrees.pkl
+Arum,30,11,23.981,3.2706,4.4855,14.3,0.4695,Arum_ExtraTrees.pkl
+Other Kharif Pulses,32,7,0.907,0.2535,0.2997,35.41,0.3636,Other_Kharif_Pulses_ExtraTrees.pkl
+Groundnut,27,9,1.103,0.3273,0.4847,27.31,-0.5058,Groundnut_ExtraTrees.pkl
