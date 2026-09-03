@@ -1,9 +1,11 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional
-from six_crop_predict import predict_yield_six_crop
+import requests
 
 app = FastAPI()
+
+MODEL_API_URL = "https://punjab-yield-api-production.up.railway.app/predict"
 
 class ScenarioRequest(BaseModel):
     crop: str
@@ -18,11 +20,5 @@ def home():
 
 @app.post("/simulate")
 def simulate(request: ScenarioRequest):
-    result = predict_yield_six_crop(
-        crop=request.crop,
-        district=request.district,
-        sowing_date=request.sowing_date,
-        fertilizer_protocol=request.fertilizer_protocol,
-        cultivar=request.cultivar
-    )
-    return result
+    response = requests.post(MODEL_API_URL, json=request.dict())
+    return response.json()
