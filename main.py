@@ -5,7 +5,7 @@ import requests
 
 app = FastAPI()
 
-MODEL_API_URL = "https://punjab-yield-api-production.up.railway.app/predict"
+MODEL_API_URL = "https://punjab-yield-api-production-7fa3.up.railway.app/predict"
 
 class ScenarioRequest(BaseModel):
     crop: str
