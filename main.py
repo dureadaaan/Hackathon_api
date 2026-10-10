@@ -21,7 +21,7 @@ def home():
 @app.post("/simulate")
 def simulate(request: ScenarioRequest):
     try:
-        response = requests.post(MODEL_API_URL, json=request.dict(), timeout=30)
+        response = requests.post(MODEL_API_URL, json=request.dict(), timeout=60)
         response.raise_for_status()
         return response.json()
     except requests.exceptions.Timeout:
