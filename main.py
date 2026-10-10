@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import Optional
 import requests
@@ -20,5 +20,11 @@ def home():
 
 @app.post("/simulate")
 def simulate(request: ScenarioRequest):
-    response = requests.post(MODEL_API_URL, json=request.dict())
-    return response.json()
+    try:
+        response = requests.post(MODEL_API_URL, json=request.dict(), timeout=30)
+        response.raise_for_status()
+        return response.json()
+    except requests.exceptions.Timeout:
+        raise HTTPException(status_code=504, detail="Model service timed out")
+    except requests.exceptions.RequestException as e:
+        raise HTTPException(status_code=502, detail=f"Model service error: {e}")
